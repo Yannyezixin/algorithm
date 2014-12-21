@@ -8,6 +8,9 @@ leetcode:
 -   [x] [Two-sum](https://github.com/Yannyezixin/algorithm/tree/master/code/two-sum)
 -   [x] [Median-of-Two-Sorted-Arrays](https://github.com/Yannyezixin/algorithm/tree/master/code/Median-of-Two-Sorted-Arrays)
 -   [x] [Longest-SubString-Without-Repeating-Characters](https://github.com/Yannyezixin/algorithm/tree/master/code/Longest-Substring-Without-Repeating-Characters)
+-   [x] [Two-Numbsers](https://github.com/Yannyezixin/algorithm/tree/master/code/Two-Numbers)
+-   [x] [Maximum-Subarray](https://github.com/Yannyezixin/algorithm/tree/master/code/Maximum-Subarray)
+-   [x] [Maximum-Product-Subarray](https://github.com/Yannyezixin/algorithm/tree/master/code/Maximum-Product-Subarray)
 
 - - -
 
